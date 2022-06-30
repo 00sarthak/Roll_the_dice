@@ -1,0 +1,60 @@
+body{
+    background-color:aquamarine;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+
+.instructions {
+    margin: 0;
+    padding: 0;
+    background-color:darkcyan;
+    text-align: center;
+    height: 200px;
+}
+.instructions h1 {
+    padding-top: 20px;
+    font-size: 50px;
+    letter-spacing: 5px;
+    color: white;
+    text-shadow: 4px 4px 8px #000000;  
+}
+
+.instructions .text{
+    color:white;
+    font-size: 20px;
+}
+
+#refresh {
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.play h1 {
+    font-size: 30px;
+    letter-spacing: 3px;
+    /* color: rgb(88, 90, 183); */
+    color:rgb(6, 96, 96);
+    text-shadow: 1px 1px 4px #000000;
+}
+
+.dice {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: inline-block;
+}
+
+.dice p{
+    font-size: 30px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 3px;
+    text-shadow: 1px 1px 4px #000000; 
+}
+
+.dice img {
+    max-width: 30%;
+    max-height: 30%;
+}
+
